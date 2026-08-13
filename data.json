@@ -1,0 +1,53 @@
+{
+  "updated_at": "2026-08-13T07:20:00+07:00",
+  "items": [
+    {
+      "source": "TechCrunch",
+      "title": "Some Claude users are mad that Anthropic's new watermarks will catch them using it at their jobs, classes",
+      "title_vn": "Người dùng Claude bức xúc vì watermark mới của Anthropic có thể 'bắt bài' họ khi dùng AI ở công ty và trường học",
+      "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "summary_vn": "Anthropic vừa tung hệ thống watermark (đánh dấu ẩn) cho nội dung do Claude tạo, khiến nhiều người dùng phàn nàn trên mạng xã hội vì lo bị phát hiện khi sử dụng AI trong công việc hoặc học tập.",
+      "published": "2026-08-12T18:30:00+07:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "AI nuclear power firm Fermi finally has a new CEO",
+      "title_vn": "Fermi - công ty điện hạt nhân phục vụ AI - cuối cùng cũng có CEO mới",
+      "link": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
+      "summary_vn": "Lee McIntire, thành viên hội đồng quản trị độc lập của Fermi, được bổ nhiệm làm CEO, hơn 3 tháng sau khi công ty sa thải đồng sáng lập Toby Neugebauer khỏi vị trí này.",
+      "published": "2026-08-12T17:00:00+07:00"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Northrop's robot space mechanic is a new way to keep satellites at work longer",
+      "title_vn": "'Thợ sửa robot' ngoài vũ trụ của Northrop giúp kéo dài tuổi thọ vệ tinh",
+      "link": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
+      "summary_vn": "Tàu Mission Robotic Vehicle (MRV) của Northrop Grumman thực hiện nỗ lực đầu tiên gắn động cơ đẩy mới cho một vệ tinh đã cũ, mở ra cách tiếp cận mới để các vệ tinh hoạt động lâu hơn thay vì phải thay mới.",
+      "published": "2026-08-12T16:00:00+07:00"
+    },
+    {
+      "source": "The Verge",
+      "title": "Pixel 11 event live blog: Let's watch Trevor Noah introduce Google's new phones",
+      "title_vn": "Live blog sự kiện Pixel 11: Trevor Noah giới thiệu điện thoại mới của Google",
+      "link": "https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah",
+      "summary_vn": "Sự kiện Made by Google sắp diễn ra với phần trình diễn phần cứng Pixel mới, do Trevor Noah dẫn dắt thay vì Jimmy Fallon như năm ngoái - theo lời The Verge, buổi phát sóng có thể khá 'cringe'.",
+      "published": "2026-08-13T00:30:00+07:00"
+    },
+    {
+      "source": "The Verge",
+      "title": "This 8BitDo mechanical keyboard has an extra keypad and is 30 percent off",
+      "title_vn": "Bàn phím cơ 8BitDo kèm keypad phụ đang giảm giá 30%",
+      "link": "https://www.theverge.com/gadgets/979263/8bitdo-mechanical-keyboard-galaxy-25-edge-deal-sale",
+      "summary_vn": "Bàn phím cơ Retro Mechanical Keyboard with Dual Super Buttons của 8BitDo đang được bán với giá 69,99 USD trên Amazon - một trong những mức thấp nhất từ trước đến nay, với thiết kế retro phong cách.",
+      "published": "2026-08-13T01:30:00+07:00"
+    },
+    {
+      "source": "The Verge",
+      "title": "Cats and dogs are missing meals after a popular smart feeder went down",
+      "title_vn": "Mèo chó bị bỏ bữa vì máy cho ăn thông minh Petlibro gặp sự cố",
+      "link": "https://www.theverge.com/tech/979295/petlibro-outage-smart-pet-feeders",
+      "summary_vn": "Sự cố mất kết nối của Petlibro khiến máy cho ăn thông minh và các thiết bị khác không thực hiện được tác vụ theo lịch như rải thức ăn. Sự cố bắt đầu từ thứ Ba và nhiều vật nuôi đang bị bỏ bữa.",
+      "published": "2026-08-13T02:00:00+07:00"
+    }
+  ]
+}
