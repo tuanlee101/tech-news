@@ -1,53 +1,53 @@
 {
-  "updated_at": "2026-08-17T09:00:00+07:00",
+  "updated_at": "2026-08-18T09:00:00+07:00",
   "items": [
     {
       "source": "TechCrunch",
-      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-      "title_vn": "Stripe được cho là sẽ mua lại startup AI OpenRouter với giá hơn 7 tỷ USD",
-      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-      "summary_vn": "CEO của OpenRouter từng mô tả startup này là \"Stripe dành cho AI\", một thương vụ lớn trong ngành.",
-      "published": "2026-08-16T20:57:04+00:00"
+      "title": "Anthropic’s annualized revenue surges to $65B",
+      "title_vn": "Doanh thu hằng năm của Anthropic vọt lên 65 tỷ USD",
+      "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "summary_vn": "Anthropic ghi nhận mức tăng trưởng ấn tượng khi bổ sung thêm 18 tỷ USD vào doanh thu hằng năm chỉ trong vòng hai tháng.",
+      "published": "2026-08-17T23:56:26+00:00"
     },
     {
       "source": "TechCrunch",
-      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-      "title_vn": "Tại sao mọi người không tin tưởng vào tương lai AI của Mark Zuckerberg?",
-      "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-      "summary_vn": "Chương trình podcast Equity phân tích lý do tầm nhìn AI của Zuckerberg chưa thuyết phục được tất cả mọi người.",
-      "published": "2026-08-16T20:32:01+00:00"
+      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+      "title_vn": "Startup tự động hóa AI Relay đóng cửa, nhân sự gia nhập nhóm Chrome của Google",
+      "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "summary_vn": "Startup Relay chính thức dừng hoạt động, đội ngũ của họ sẽ tập trung phát triển các tính năng AI mới cho trình duyệt Chrome.",
+      "published": "2026-08-17T21:27:05+00:00"
     },
     {
       "source": "TechCrunch",
-      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-      "title_vn": "CEO của Anthropic cho rằng làn sóng phản đối AI là một cuộc khủng hoảng niềm tin",
-      "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-      "summary_vn": "Dario Amodei khẳng định ông không vẽ ra viễn cảnh quá bi quan về tương lai AI.",
-      "published": "2026-08-16T16:53:51+00:00"
+      "title": "‘Unprecedented’ number of Apple users received recent spyware alert, say investigators",
+      "title_vn": "Số lượng người dùng Apple nhận cảnh báo phần mềm gián điệp đạt mức 'chưa từng có'",
+      "link": "https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/",
+      "summary_vn": "Các chuyên gia bảo mật cảnh báo về tình trạng gia tăng bất thường các đợt tấn công bằng phần mềm gián điệp nhắm vào người dùng Apple.",
+      "published": "2026-08-17T20:18:35+00:00"
     },
     {
       "source": "The Verge",
-      "title": "OpenAI reportedly disbanded its preparedness team",
-      "title_vn": "OpenAI được cho là đã giải tán nhóm đánh giá chuẩn bị",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-      "summary_vn": "Nhóm này vốn chịu trách nhiệm đánh giá rủi ro và ngăn chặn các nguy cơ tiềm tàng từ các mô hình AI của OpenAI.",
-      "published": "2026-08-16T17:32:56-04:00"
+      "title": "Reddit’s AI is turning posts into podcasts and short videos",
+      "title_vn": "AI của Reddit đang chuyển đổi các bài đăng thành podcast và video ngắn",
+      "link": "https://www.theverge.com/tech/981289/reddit-ai-text-video-posts",
+      "summary_vn": "Reddit đang thử nghiệm tính năng tự động chuyển hóa văn bản thành video và âm thanh bằng giọng nói AI để người dùng dễ tiếp cận nội dung hơn.",
+      "published": "2026-08-17T19:46:01-04:00"
     },
     {
       "source": "The Verge",
-      "title": "Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece",
-      "title_vn": "Open Mike Eagle và Kenny Segal tạo ra một kiệt tác hip hop về sự tan vỡ",
-      "link": "https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review",
-      "summary_vn": "Album DOOMED! là sự kết hợp đầy cảm xúc của nghệ sĩ Open Mike Eagle về chủ đề chia tay.",
-      "published": "2026-08-16T16:31:37-04:00"
+      "title": "ABC’s livestreamed news show is powered by trending topics",
+      "title_vn": "Chương trình tin tức trực tiếp của ABC được xây dựng dựa trên các chủ đề thịnh hành",
+      "link": "https://www.theverge.com/streaming/981209/abc-news-searched-livestreamed-show",
+      "summary_vn": "ABC News ra mắt chương trình 'Searched', nội dung tập trung vào các câu chuyện đang tạo xu hướng trên web và mạng xã hội.",
+      "published": "2026-08-17T16:59:23-04:00"
     },
     {
       "source": "The Verge",
-      "title": "Amazon is trying to crush class-action suits before they get started",
-      "title_vn": "Amazon tìm cách ngăn chặn các vụ kiện tập thể từ sớm",
-      "link": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
-      "summary_vn": "Amazon cập nhật điều khoản yêu cầu khách hàng từ bỏ quyền kiện tập thể, thay bằng giải quyết thông qua trọng tài.",
-      "published": "2026-08-16T13:35:02-04:00"
+      "title": "This compact Glorious mechanical keyboard is just $35",
+      "title_vn": "Bàn phím cơ nhỏ gọn Glorious đang có giá cực sốc chỉ 35 USD",
+      "link": "https://www.theverge.com/gadgets/981134/glorious-gmmk-3-mechanical-keyboard-deal-sale",
+      "summary_vn": "Mẫu bàn phím cơ GMMK 3 của Glorious đang được giảm giá mạnh, đây là lựa chọn hấp dẫn cho những người mới bắt đầu thú chơi phím cơ.",
+      "published": "2026-08-17T15:27:49-04:00"
     }
   ]
 }
