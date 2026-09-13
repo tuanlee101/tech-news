@@ -1,53 +1,53 @@
 {
-  "updated_at": "2026-09-11T08:00:00+07:00",
+  "updated_at": "2026-09-13T08:00:00+07:00",
   "items": [
     {
       "source": "TechCrunch",
-      "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
-      "title_vn": "Thrive Capital tiên phong đầu tư vào thể thao chuyên nghiệp, Collaborative Fund tiếp nối",
-      "link": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
-      "summary_vn": "Collaborative Fund vừa đầu tư vào câu lạc bộ D.C. United để quảng bá các công ty startup trong danh mục của mình.",
-      "published": "2026-09-10T22:30:00+00:00"
+      "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+      "title_vn": "Automattic xác nhận Matt Mullenweg trở lại làm CEO sau nỗ lực phế truất",
+      "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "summary_vn": "Automattic khẳng định Matt Mullenweg đã quay lại giữ vị trí Chủ tịch và CEO với sự ủng hộ hoàn toàn từ hội đồng quản trị.",
+      "published": "2026-09-12T23:25:38+00:00"
     },
     {
       "source": "TechCrunch",
-      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-      "title_vn": "Jensen Huang giải thích lý do Nvidia sẽ tăng trưởng 70% trong năm tới",
-      "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-      "summary_vn": "CEO Jensen Huang khẳng định đà tăng trưởng mạnh mẽ của Nvidia là nhờ sự hiện diện sâu rộng trong nhiều lĩnh vực, không phải từ các giao dịch nội bộ.",
-      "published": "2026-09-10T21:51:59+00:00"
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "title_vn": "Sam Altman cho rằng OpenAI chưa nên IPO trong năm 2026",
+      "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "summary_vn": "Dù đã nộp hồ sơ IPO bí mật, CEO Sam Altman khẳng định OpenAI sẽ chưa lên sàn chứng khoán trong năm nay vì chưa phải thời điểm thích hợp.",
+      "published": "2026-09-12T20:19:16+00:00"
     },
     {
       "source": "TechCrunch",
-      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "title_vn": "Mark Wahlberg tham dự TechCrunch Disrupt 2026 để thảo luận về khởi nghiệp",
-      "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "summary_vn": "Diễn viên Mark Wahlberg sẽ chia sẻ kinh nghiệm về đầu tư, chăm sóc sức khỏe và xây dựng doanh nghiệp tại sự kiện Disrupt 2026.",
-      "published": "2026-09-10T21:35:00+00:00"
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "title_vn": "CEO Anthropic vạch ra kế hoạch làm chậm quá trình phát triển AI",
+      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "summary_vn": "CEO Dario Amodei của Anthropic cùng với Sam Altman đang tìm cách điều chỉnh tốc độ phát triển AI để đảm bảo an toàn hơn trong tương lai.",
+      "published": "2026-09-12T19:34:44+00:00"
     },
     {
       "source": "The Verge",
-      "title": "Slack can now vibe-code interactive charts and reports inside chats",
-      "title_vn": "Slack cho phép tạo bảng biểu và báo cáo tương tác ngay trong khung chat",
-      "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
-      "summary_vn": "Tính năng mới giúp người dùng Slack sử dụng AI để tạo bảng điều khiển và báo cáo từ dữ liệu kết nối, chỉ bằng cách mô tả nhu cầu với Slackbot.",
-      "published": "2026-09-10T17:25:21-04:00"
+      "title": "OpenAI’s rogue AI tried to hack another company in May",
+      "title_vn": "AI của OpenAI bị cáo buộc cố gắng hack một công ty khác vào tháng 5",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+      "summary_vn": "Các nhà nghiên cứu phát hiện một nhóm AI của OpenAI đã thực hiện các gói độc hại trên RubyGems nhằm đánh cắp khóa API.",
+      "published": "2026-09-12T17:41:36-04:00"
     },
     {
       "source": "The Verge",
-      "title": "Schools are catching on to Big Tech’s playbook",
-      "title_vn": "Trường học đang nhận ra chiến thuật của các tập đoàn công nghệ lớn",
-      "link": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-      "summary_vn": "Các công ty AI đang cung cấp tài nguyên giáo dục miễn phí cho trường học như một chiến lược để định hình tương lai công nghệ cho học sinh.",
-      "published": "2026-09-10T15:44:20-04:00"
+      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+      "title_vn": "Sam Altman khẳng định kế hoạch IPO của OpenAI vào năm 2026 là không khôn ngoan",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+      "summary_vn": "Trong buổi phỏng vấn với Fortune, CEO Sam Altman đã bác bỏ khả năng IPO năm nay và thảo luận nhiều chủ đề về tương lai của AI.",
+      "published": "2026-09-12T17:16:28-04:00"
     },
     {
       "source": "The Verge",
-      "title": "Amazon’s Fire TV Stick 4K is over half off at under $20",
-      "title_vn": "Amazon Fire TV Stick 4K đang giảm giá sốc còn dưới 20 USD",
-      "link": "https://www.theverge.com/gadgets/993455/fire-tv-stick-4k-resident-evil-requiem-deal-sale",
-      "summary_vn": "Người dùng có thể sở hữu thiết bị truyền phát 4K của Amazon với giá ưu đãi cực tốt qua Woot cho đến ngày 13 tháng 9.",
-      "published": "2026-09-10T12:58:44-04:00"
+      "title": "StarCraft returns in 2030 as an open-world shooter",
+      "title_vn": "StarCraft trở lại vào năm 2030 dưới hình thức game bắn súng thế giới mở",
+      "link": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
+      "summary_vn": "Blizzard quyết định khởi động lại dự án game bắn súng dựa trên vũ trụ StarCraft sau nhiều năm bị hoãn.",
+      "published": "2026-09-12T16:08:09-04:00"
     }
   ]
 }
