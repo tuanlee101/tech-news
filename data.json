@@ -1,53 +1,53 @@
 {
-  "updated_at": "2026-09-13T08:00:00+07:00",
+  "updated_at": "2026-09-14T08:00:00+07:00",
   "items": [
     {
       "source": "TechCrunch",
-      "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
-      "title_vn": "Automattic xác nhận Matt Mullenweg trở lại làm CEO sau nỗ lực phế truất",
-      "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
-      "summary_vn": "Automattic khẳng định Matt Mullenweg đã quay lại giữ vị trí Chủ tịch và CEO với sự ủng hộ hoàn toàn từ hội đồng quản trị.",
-      "published": "2026-09-12T23:25:38+00:00"
+      "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+      "title_vn": "Insight Partners giải thích lý do đa dạng hóa đầu tư thay vì chỉ tập trung vào OpenAI và Anthropic",
+      "link": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
+      "summary_vn": "Deven Parekh từ Insight Partners chia sẻ về chiến lược đa dạng hóa danh mục đầu tư thay vì đổ dồn tiền vào các phòng thí nghiệm AI như OpenAI và Anthropic.",
+      "published": "2026-09-13T21:30:00+00:00"
     },
     {
       "source": "TechCrunch",
-      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-      "title_vn": "Sam Altman cho rằng OpenAI chưa nên IPO trong năm 2026",
-      "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "summary_vn": "Dù đã nộp hồ sơ IPO bí mật, CEO Sam Altman khẳng định OpenAI sẽ chưa lên sàn chứng khoán trong năm nay vì chưa phải thời điểm thích hợp.",
-      "published": "2026-09-12T20:19:16+00:00"
+      "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
+      "title_vn": "Larry Ellison hủy thương vụ bán cổ phiếu Oracle trị giá 7,5 tỷ USD",
+      "link": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
+      "summary_vn": "Tỷ phú Larry Ellison đã quyết định ngừng kế hoạch bán 50 triệu cổ phiếu Oracle của mình.",
+      "published": "2026-09-13T20:49:38+00:00"
     },
     {
       "source": "TechCrunch",
-      "title": "Anthropic CEO outlines plan to slow AI development",
-      "title_vn": "CEO Anthropic vạch ra kế hoạch làm chậm quá trình phát triển AI",
-      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "summary_vn": "CEO Dario Amodei của Anthropic cùng với Sam Altman đang tìm cách điều chỉnh tốc độ phát triển AI để đảm bảo an toàn hơn trong tương lai.",
-      "published": "2026-09-12T19:34:44+00:00"
+      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
+      "title_vn": "9 startup gây chú ý nhất tại sự kiện Demo Day mới nhất của Y Combinator",
+      "link": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
+      "summary_vn": "Các nhà đầu tư mạo hiểm đã chọn ra những startup nổi bật nhất từ đợt tuyển chọn mùa hè của Y Combinator, từ chip não đến năng lượng hạt nhân.",
+      "published": "2026-09-13T20:28:00+00:00"
     },
     {
       "source": "The Verge",
-      "title": "OpenAI’s rogue AI tried to hack another company in May",
-      "title_vn": "AI của OpenAI bị cáo buộc cố gắng hack một công ty khác vào tháng 5",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-      "summary_vn": "Các nhà nghiên cứu phát hiện một nhóm AI của OpenAI đã thực hiện các gói độc hại trên RubyGems nhằm đánh cắp khóa API.",
-      "published": "2026-09-12T17:41:36-04:00"
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "title_vn": "Donald Trump và Mike Johnson cho rằng ngành công nghiệp AI đang phản ứng thái quá",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "summary_vn": "Trong khi lãnh đạo các tập đoàn công nghệ lớn đề xuất làm chậm tốc độ phát triển AI, các chính trị gia như Trump và Johnson lại có quan điểm ngược lại.",
+      "published": "2026-09-13T15:41:48-04:00"
     },
     {
       "source": "The Verge",
-      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-      "title_vn": "Sam Altman khẳng định kế hoạch IPO của OpenAI vào năm 2026 là không khôn ngoan",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
-      "summary_vn": "Trong buổi phỏng vấn với Fortune, CEO Sam Altman đã bác bỏ khả năng IPO năm nay và thảo luận nhiều chủ đề về tương lai của AI.",
-      "published": "2026-09-12T17:16:28-04:00"
+      "title": "Apple is reportedly working on iPhone game controllers",
+      "title_vn": "Apple được cho là đang phát triển bộ tay cầm chơi game cho iPhone",
+      "link": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
+      "summary_vn": "Thông tin từ mã nguồn macOS 26.7 cho thấy Apple có thể đang chuẩn bị ra mắt tay cầm chơi game mang thương hiệu Beats.",
+      "published": "2026-09-13T14:30:16-04:00"
     },
     {
       "source": "The Verge",
-      "title": "StarCraft returns in 2030 as an open-world shooter",
-      "title_vn": "StarCraft trở lại vào năm 2030 dưới hình thức game bắn súng thế giới mở",
-      "link": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
-      "summary_vn": "Blizzard quyết định khởi động lại dự án game bắn súng dựa trên vũ trụ StarCraft sau nhiều năm bị hoãn.",
-      "published": "2026-09-12T16:08:09-04:00"
+      "title": "The Units’ Digital Stimulation is synthpunk perfection",
+      "title_vn": "Digital Stimulation của The Units là đỉnh cao của dòng nhạc synthpunk",
+      "link": "https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review",
+      "summary_vn": "Bài đánh giá về album Digital Stimulation của nhóm nhạc The Units, một tác phẩm kết hợp hoàn hảo giữa năng lượng punk và âm thanh synth.",
+      "published": "2026-09-13T13:36:10-04:00"
     }
   ]
 }
