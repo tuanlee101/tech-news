@@ -1,53 +1,53 @@
 {
-  "updated_at": "2026-09-14T08:00:00+07:00",
+  "updated_at": "2026-09-15T09:00:00+07:00",
   "items": [
     {
       "source": "TechCrunch",
-      "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
-      "title_vn": "Insight Partners giải thích lý do đa dạng hóa đầu tư thay vì chỉ tập trung vào OpenAI và Anthropic",
-      "link": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
-      "summary_vn": "Deven Parekh từ Insight Partners chia sẻ về chiến lược đa dạng hóa danh mục đầu tư thay vì đổ dồn tiền vào các phòng thí nghiệm AI như OpenAI và Anthropic.",
-      "published": "2026-09-13T21:30:00+00:00"
+      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+      "title_vn": "Jensen Huang gọi điện cho Trump và trình diễn thứ gì đó mới",
+      "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+      "summary_vn": "CEO của Nvidia, Jensen Huang, đã thực hiện cuộc gọi trực tiếp từ Trump trong khi giới thiệu một thiết bị điện thoại đặc biệt.",
+      "published": "2026-09-15T01:50:48+00:00"
     },
     {
       "source": "TechCrunch",
-      "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
-      "title_vn": "Larry Ellison hủy thương vụ bán cổ phiếu Oracle trị giá 7,5 tỷ USD",
-      "link": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
-      "summary_vn": "Tỷ phú Larry Ellison đã quyết định ngừng kế hoạch bán 50 triệu cổ phiếu Oracle của mình.",
-      "published": "2026-09-13T20:49:38+00:00"
+      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "title_vn": "CEO Nvidia khẳng định sẽ không để ngành AI bị chậm lại",
+      "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "summary_vn": "Trái ngược với ý kiến của các lãnh đạo như Elon Musk hay Sam Altman, Jensen Huang phản đối việc làm chậm quá trình phát triển AI.",
+      "published": "2026-09-14T21:51:02+00:00"
     },
     {
       "source": "TechCrunch",
-      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
-      "title_vn": "9 startup gây chú ý nhất tại sự kiện Demo Day mới nhất của Y Combinator",
-      "link": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
-      "summary_vn": "Các nhà đầu tư mạo hiểm đã chọn ra những startup nổi bật nhất từ đợt tuyển chọn mùa hè của Y Combinator, từ chip não đến năng lượng hạt nhân.",
-      "published": "2026-09-13T20:28:00+00:00"
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "title_vn": "OpenAI mua lại startup camera Glass Imaging với giá 300 triệu USD",
+      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "summary_vn": "OpenAI thâu tóm Glass Imaging, công ty camera sáng tạo bởi các cựu kỹ sư Apple từng tạo ra Portrait Mode.",
+      "published": "2026-09-14T20:44:14+00:00"
     },
     {
       "source": "The Verge",
-      "title": "Trump and Mike Johnson think the AI industry is overreacting",
-      "title_vn": "Donald Trump và Mike Johnson cho rằng ngành công nghiệp AI đang phản ứng thái quá",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
-      "summary_vn": "Trong khi lãnh đạo các tập đoàn công nghệ lớn đề xuất làm chậm tốc độ phát triển AI, các chính trị gia như Trump và Johnson lại có quan điểm ngược lại.",
-      "published": "2026-09-13T15:41:48-04:00"
+      "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
+      "title_vn": "Valve vẫn đang cân nhắc thời điểm ra mắt Steam Deck 2",
+      "link": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when",
+      "summary_vn": "Valve xác nhận hãng đang tìm cách phát triển phiên bản Steam Deck kế nhiệm nhưng chưa có lộ trình chính thức.",
+      "published": "2026-09-14T20:13:47-04:00"
     },
     {
       "source": "The Verge",
-      "title": "Apple is reportedly working on iPhone game controllers",
-      "title_vn": "Apple được cho là đang phát triển bộ tay cầm chơi game cho iPhone",
-      "link": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
-      "summary_vn": "Thông tin từ mã nguồn macOS 26.7 cho thấy Apple có thể đang chuẩn bị ra mắt tay cầm chơi game mang thương hiệu Beats.",
-      "published": "2026-09-13T14:30:16-04:00"
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "title_vn": "Việc Big Tech làm chậm AI là cam kết an toàn hay là một liên minh thao túng?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "summary_vn": "Thỏa thuận làm chậm tiến độ AI giữa các ông lớn như OpenAI, Anthropic, Google và SpaceX gây ra nhiều tranh cãi về mục đích thực sự.",
+      "published": "2026-09-14T18:59:41-04:00"
     },
     {
       "source": "The Verge",
-      "title": "The Units’ Digital Stimulation is synthpunk perfection",
-      "title_vn": "Digital Stimulation của The Units là đỉnh cao của dòng nhạc synthpunk",
-      "link": "https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review",
-      "summary_vn": "Bài đánh giá về album Digital Stimulation của nhóm nhạc The Units, một tác phẩm kết hợp hoàn hảo giữa năng lượng punk và âm thanh synth.",
-      "published": "2026-09-13T13:36:10-04:00"
+      "title": "Apple Home’s new security camera features cost as much as $60 a month",
+      "title_vn": "Tính năng camera bảo mật mới của Apple Home có giá lên tới 60 USD/tháng",
+      "link": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
+      "summary_vn": "Apple mang trí tuệ nhân tạo vào HomeKit Secure Video với các bản tóm tắt AI, nhưng yêu cầu gói trả phí cao cấp.",
+      "published": "2026-09-14T18:28:52-04:00"
     }
   ]
 }
